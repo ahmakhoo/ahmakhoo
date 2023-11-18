@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Darius</h1>
 <h3 align="center">A aspiring AI Engineer from Singapore</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">About me:</h3>
+<p align="center">
+  I am a student currently studying at Singapore Polytechnic
+
+  I am passionate about machine learning, data analytics, and everything related
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
