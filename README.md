@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">About me:</h3>
 <p align="center">
-  I am a student currently studying at Singapore Polytechnic
-
+  I am a Year 2 student currently studying Applied Artificial Intelligence and Analytics @ Singapore Polytechnic 
   I am passionate about machine learning, data analytics, and everything related
+  I store all my passion projects and school projects here. Feel free to take a look :)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
